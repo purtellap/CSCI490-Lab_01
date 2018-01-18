@@ -28,7 +28,7 @@ if(!timerHasStarted) {
 }
 
 
-
+// This will be an inner public class inside of ActivityMain
 MyCountDownTimer:
 onFinish():
 text.setText("Time's up!");
